@@ -1,0 +1,97 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tristan\Documents\EuroScope\CanScope\CZVR\CZVR.sct
+SECTORTITLE:CZVR.sct
+ARTCC boundary:Airport Complex:
+ARTCC boundary:Border with ANC:
+ARTCC boundary:Border with CAN:
+ARTCC boundary:Border with FIR:
+ARTCC boundary:Border with OCN:
+ARTCC boundary:Border with SEA:
+ARTCC boundary:Centre Overlay:
+ARTCC boundary:East Complex:
+ARTCC boundary:High Complex:
+ARTCC high boundary:Airspace Shelves:
+ARTCC low boundary:ANC Splits:
+ARTCC low boundary:SEA Splits:
+Fixes:ANTAK:symbol
+Fixes:BINVO:symbol
+Fixes:BOKMA:symbol
+Fixes:BOOTH:symbol
+Fixes:CASCD:symbol
+Fixes:CILLI:symbol
+Fixes:DATNO:symbol
+Fixes:DUGGS:symbol
+Fixes:HANRY:symbol
+Fixes:IGVEP:symbol
+Fixes:IWACK:symbol
+Fixes:KANUA:symbol
+Fixes:KATCH:symbol
+Fixes:KEINN:symbol
+Fixes:LINGO:symbol
+Fixes:MANJO:symbol
+Fixes:MENBO:symbol
+Fixes:MERYT:symbol
+Fixes:MOCHA:symbol
+Fixes:NADPI:symbol
+Fixes:NOVAR:symbol
+Fixes:NUDGE:symbol
+Fixes:ORNAI:symbol
+Fixes:PRETY:symbol
+Fixes:ROMRA:symbol
+Fixes:ROUKE:symbol
+Fixes:ROYST:symbol
+Fixes:SIGPA:symbol
+Fixes:SIMSU:symbol
+Fixes:TWISP:symbol
+Fixes:VIDRI:symbol
+Fixes:WAPTO:symbol
+NDBs:LW:symbol
+NDBs:YAZ:symbol
+Sids:Airways - Jet:
+Stars:Airways - Quebec:
+VORs:ANN:symbol
+VORs:BKA:symbol
+VORs:GEG:symbol
+VORs:GTF:symbol
+VORs:HQM:symbol
+VORs:HUH:symbol
+VORs:MLP:symbol
+VORs:OLM:symbol
+VORs:PAE:symbol
+VORs:SEA:symbol
+VORs:TOU:symbol
+VORs:UQQ:symbol
+VORs:YDC:symbol
+VORs:YEG:symbol
+VORs:YPK:symbol
+VORs:YQL:symbol
+VORs:YQU:symbol
+VORs:YVR:symbol
+VORs:YWL:symbol
+VORs:YXC:symbol
+VORs:YXJ:symbol
+VORs:YXS:symbol
+VORs:YYC:symbol
+VORs:YYD:symbol
+VORs:YYJ:symbol
+VORs:YZP:symbol
+VORs:YZT:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:CSiT
+WINDOWAREA:45.592450:-137.426252:55.474274:-106.909970
+PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterLow:1
+PLUGIN:VATCANSitu:DisplayTypeName:IFR
