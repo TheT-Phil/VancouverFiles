@@ -1,0 +1,73 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tristan\Documents\EuroScope\CanScope\CZVR\CZVR.sct
+SECTORTITLE:CZVR.sct
+Airports:CYAZ:symbol
+Airports:CYBL:symbol
+Airports:CYCG:symbol
+Airports:CYDC:symbol
+Airports:CYKA:symbol
+Airports:CYPR:symbol
+Airports:CYQZ:symbol
+Airports:CYWH:symbol
+Airports:CYWL:symbol
+Airports:CYXC:symbol
+Airports:CYXT:symbol
+Airports:CYYD:symbol
+Airports:CYYF:symbol
+Airports:CYZP:symbol
+Airports:CYZT:symbol
+ARTCC high boundary:Control Zones (ALL):
+ARTCC high boundary:Control Zones (EXT):
+ARTCC high boundary:Control Zones (TML):
+ARTCC high boundary:Control Zones (YVR):
+Fixes:VAN08:symbol
+Fixes:VAN26:symbol
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\•:freetext
+Geo:Centrelines:
+Geo:GEO:
+Runways:CYCD 16-34:centerline
+Runways:CYLW 16-34:centerline
+Runways:CYNJ 01-19:centerline
+Runways:CYNJ 07-25:centerline
+Runways:CYPK 08L-26R:centerline
+Runways:CYPK 08R-26L:centerline
+Runways:CYPK 18-36:centerline
+Runways:CYQQ 12-30:centerline
+Runways:CYQQ 18-36:centerline
+Runways:CYVR 08L-26R:centerline
+Runways:CYVR 08R-26L:centerline
+Runways:CYVR 13-31:centerline
+Runways:CYXS 01-19:centerline
+Runways:CYXS 06-24:centerline
+Runways:CYXS 15-33:centerline
+Runways:CYXX 01-19:centerline
+Runways:CYXX 07-25:centerline
+Runways:CYYJ 03-21:centerline
+Runways:CYYJ 09-27:centerline
+Runways:CYYJ 14-32:centerline
+Runways:CZBB 07-25:centerline
+Runways:CZBB 13-31:centerline
+Runways:KBLI 16-34:centerline
+Stars:Airspace - Advisory:
+Stars:Airspace - Danger:
+Stars:Airspace - Restricted:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:CSiT
+WINDOWAREA:48.291990:-125.488125:50.015028:-120.167173
+PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterLow:1
+PLUGIN:VATCANSitu:DisplayTypeName:IFR
