@@ -26,6 +26,7 @@ ARTCC boundary:Border with SEA:
 ARTCC boundary:Centre Overlay:
 ARTCC boundary:East Complex:
 ARTCC boundary:High Complex:
+ARTCC boundary:Kelowna/Kamloops:
 ARTCC high boundary:Airspace Shelves:
 ARTCC high boundary:Control Zones (ALL):
 ARTCC high boundary:Williams Lake:
@@ -153,7 +154,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:342.00000
 TAGFAMILY:CSiT
-WINDOWAREA:48.291990:-125.488125:50.015028:-120.167173
+WINDOWAREA:45.592450:-137.426252:55.474274:-106.909970
 PLUGIN:VATCANSitu:altFilterHigh:0
 PLUGIN:VATCANSitu:altFilterLow:1
 PLUGIN:VATCANSitu:DisplayTypeName:IFR
