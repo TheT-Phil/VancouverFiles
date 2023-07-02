@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tristan\Documents\EuroScope\CanScope\CZVR\CZVR.sct
 SECTORTITLE:CZVR.sct
 ARTCC boundary:Airport Complex:
 ARTCC boundary:Border with ANC:
@@ -48,10 +47,14 @@ Fixes:SIMSU:symbol
 Fixes:TWISP:symbol
 Fixes:VIDRI:symbol
 Fixes:WAPTO:symbol
+Geo:GEO:
 NDBs:LW:symbol
 NDBs:YAZ:symbol
-Sids:Airways - Jet:
-Stars:Airways - Quebec:
+Sids:Airways - J:
+Stars:Airspace - Advisory:
+Stars:Airspace - Danger:
+Stars:Airspace - Restricted:
+Stars:Airways - Q:
 VORs:ANN:symbol
 VORs:BKA:symbol
 VORs:GEG:symbol
@@ -93,6 +96,6 @@ DISABLEZOOMING:0
 DisplayRotation:342.00000
 TAGFAMILY:CSiT
 WINDOWAREA:45.592450:-137.426252:55.474274:-106.909970
-PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterHigh:999
 PLUGIN:VATCANSitu:altFilterLow:1
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

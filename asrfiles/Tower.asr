@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tristan\Documents\EuroScope\CanScope\CZVR\CZVR.sct
 SECTORTITLE:CZVR.sct
 Airports:CYAZ:symbol
 Airports:CYBL:symbol
@@ -22,9 +21,122 @@ ARTCC high boundary:Control Zones (ALL):
 ARTCC high boundary:Control Zones (EXT):
 ARTCC high boundary:Control Zones (TML):
 ARTCC high boundary:Control Zones (YVR):
-Fixes:VAN08:symbol
-Fixes:VAN26:symbol
+Fixes:RWY08:symbol
+Fixes:RWY26:symbol
 Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
 Geo:Centrelines:
 Geo:GEO:
@@ -58,7 +170,7 @@ SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:5
+LEADER:10
 SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
@@ -68,6 +180,6 @@ DISABLEZOOMING:0
 DisplayRotation:342.00000
 TAGFAMILY:CSiT
 WINDOWAREA:48.291990:-125.488125:50.015028:-120.167173
-PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterHigh:100
 PLUGIN:VATCANSitu:altFilterLow:1
 PLUGIN:VATCANSitu:DisplayTypeName:IFR
