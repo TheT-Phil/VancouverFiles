@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tristan\Documents\EuroScope\CanScope\CZVR\CZVR.sct
 SECTORTITLE:CZVR.sct
 Airports:CYAZ:symbol
 Airports:CYBL:symbol
@@ -100,8 +99,6 @@ NDBs:XT:symbol
 NDBs:YAZ:symbol
 NDBs:YBL:symbol
 NDBs:YJQ:symbol
-NDBs:YPW:symbol
-NDBs:YYF:symbol
 NDBs:ZKI:symbol
 Runways:CYLW 16-34:centerline
 Runways:CYQQ 12-30:centerline
@@ -109,11 +106,11 @@ Runways:CYQQ 18-36:centerline
 Runways:CYXS 01-19:centerline
 Runways:CYXS 06-24:centerline
 Runways:CYXS 15-33:centerline
-Sids:Airways - Victor:
+Sids:Airways - V:
 Stars:Airspace - Advisory:
 Stars:Airspace - Danger:
 Stars:Airspace - Restricted:
-Stars:Airways - Tango:
+Stars:Airways - T:
 VORs:ANN:symbol
 VORs:BKA:symbol
 VORs:GEG:symbol
@@ -155,6 +152,6 @@ DISABLEZOOMING:0
 DisplayRotation:342.00000
 TAGFAMILY:CSiT
 WINDOWAREA:45.592450:-137.426252:55.474274:-106.909970
-PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterHigh:999
 PLUGIN:VATCANSitu:altFilterLow:1
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

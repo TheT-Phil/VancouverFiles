@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tristan\Documents\EuroScope\CanScope\CZVR\CZVR.sct
 SECTORTITLE:CZVR.sct
 Airports:CYWH:symbol
 ARTCC boundary:Airport Complex:
@@ -75,6 +74,8 @@ Fixes:ROLBU:symbol
 Fixes:ROLLA:symbol
 Fixes:ROMRA:symbol
 Fixes:RORTU:symbol
+Fixes:RWY08:symbol
+Fixes:RWY26:symbol
 Fixes:SEDUS:symbol
 Fixes:SENRI:symbol
 Fixes:SIGPA:symbol
@@ -86,8 +87,6 @@ Fixes:TALPI:symbol
 Fixes:TDNBG:symbol
 Fixes:TREEL:symbol
 Fixes:TRENA:symbol
-Fixes:VAN08:symbol
-Fixes:VAN26:symbol
 Fixes:VIDRI:symbol
 Fixes:VINLO:symbol
 Fixes:VOLOX:symbol
@@ -222,10 +221,7 @@ NDBs:XX:symbol
 NDBs:YAZ:symbol
 NDBs:YBL:symbol
 NDBs:YCD:symbol
-NDBs:YJ:symbol
 NDBs:YJQ:symbol
-NDBs:YPW:symbol
-NDBs:YYF:symbol
 NDBs:ZKI:symbol
 Runways:CYCD 16-34:centerline
 Runways:CYNJ 01-19:centerline
@@ -244,13 +240,13 @@ Runways:CYYJ 14-32:centerline
 Runways:CZBB 07-25:centerline
 Runways:CZBB 13-31:centerline
 Runways:KBLI 16-34:centerline
-Sids:Airways - Victor:
+Sids:Airways - V:
 Stars:Airspace - Advisory:
 Stars:Airspace - Danger:
 Stars:Airspace - Restricted:
-Stars:Airways - Tango:
-Stars:STARs YVR DOWNWIND (08s):
-Stars:STARs YVR DOWNWIND (26s):
+Stars:Airways - T:
+Stars:STAR CYVR DOWNWIND (08):
+Stars:STAR CYVR DOWNWIND (26):
 VORs:ANN:symbol
 VORs:BKA:symbol
 VORs:GEG:symbol
@@ -289,6 +285,6 @@ DISABLEZOOMING:0
 DisplayRotation:342.00000
 TAGFAMILY:CSiT
 WINDOWAREA:48.569857:-124.953405:49.769249:-121.249534
-PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterHigh:175
 PLUGIN:VATCANSitu:altFilterLow:1
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

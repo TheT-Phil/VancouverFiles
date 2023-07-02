@@ -109,8 +109,8 @@
 .sc squawk mode C please.
 .vr are you able to recieve voice?
 .wx The $1 weather is $metar($1)
-.shutdown roger, copy your shutdown at $time. Thanks for flying Vancouver FIR.
-.bye Thanks for flying Vancouver FIR. Good $1.
+.shutdown roger, copy your shutdown at $time. Thanks for flying Moncton FIR.
+.bye Thanks for flying Moncton FIR. Good $1.
 
 ;*** TOWER ***
 .lu line up and wait, runway $1.

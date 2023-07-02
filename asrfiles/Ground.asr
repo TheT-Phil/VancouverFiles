@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tristan\Documents\EuroScope\CanScope\CZVR\CZVR.sct
 SECTORTITLE:CZVR.sct
 Free Text:Gates - CYVR\10:freetext
 Free Text:Gates - CYVR\12:freetext
@@ -362,11 +361,11 @@ SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
-LEADER:5
+LEADER:10
 SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
-SIMULATION_MODE:5
+SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:349.50000
