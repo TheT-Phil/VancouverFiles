@@ -68,10 +68,10 @@ Other:distance annotation:16777215:4.5:0:0:7
 Other:separation leader:4408078:3.5:0:2:7
 Other:separation leader2:16777215:3.5:0:1:7
 Other:find:16777215:3.5:0:4:7
-Other:valid airway:12078599:3.5:0:1:7
-Other:bad direction airway:255:3.5:0:1:7
-Other:unconnected airway:33023:3.5:0:1:7
-Other:direct no airway:12078599:3.5:0:1:7
+Other:valid airway:9737364:3.5:0:1:7
+Other:bad direction airway:9737364:3.5:0:1:7
+Other:unconnected airway:9737364:3.5:0:1:7
+Other:direct no airway:9737364:3.5:0:1:7
 Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
