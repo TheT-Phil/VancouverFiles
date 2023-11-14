@@ -2,93 +2,48 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORTITLE:CZVR.sct
-Airports:CYAZ:symbol
-Airports:CYBL:symbol
-Airports:CYCG:symbol
-Airports:CYDC:symbol
-Airports:CYKA:symbol
-Airports:CYPR:symbol
-Airports:CYQZ:symbol
+Airports:CYHC:symbol
 Airports:CYWH:symbol
-Airports:CYWL:symbol
-Airports:CYXC:symbol
-Airports:CYXT:symbol
-Airports:CYYD:symbol
-Airports:CYYF:symbol
-Airports:CYZP:symbol
-Airports:CYZT:symbol
+ARTCC boundary:Control Zones:
+ARTCC high boundary:Airspace - Advisory (LO):
+ARTCC high boundary:Airspace - Restricted (LO):
 ARTCC high boundary:Control Zones (ALL):
 ARTCC high boundary:Control Zones (EXT):
 ARTCC high boundary:Control Zones (TML):
 ARTCC high boundary:Control Zones (YVR):
+Fixes:ALMOM:symbol
+Fixes:AMBAT:symbol
+Fixes:AXIGA:symbol
+Fixes:BEPEX:symbol
+Fixes:BEVOT:symbol
+Fixes:BODVI:symbol
+Fixes:DAPUS:symbol
+Fixes:DARUD:symbol
+Fixes:DATBO:symbol
+Fixes:DUNJY:symbol
+Fixes:EBLEL:symbol
+Fixes:EPSER:symbol
+Fixes:IKNER:symbol
+Fixes:IMEKO:symbol
+Fixes:LENUR:symbol
+Fixes:LERIM:symbol
+Fixes:NADEP:symbol
+Fixes:NORIP:symbol
+Fixes:OMPIM:symbol
+Fixes:OMSED:symbol
+Fixes:ONDAV:symbol
+Fixes:PIGLU:symbol
+Fixes:PILMA:symbol
+Fixes:ROBTI:symbol
 Fixes:RWY08:symbol
 Fixes:RWY26:symbol
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
-Free Text:SCT2\ • :freetext
+Fixes:SEKAB:symbol
+Fixes:TAGBA:symbol
+Fixes:TATVI:symbol
+Fixes:UKVOD:symbol
+Fixes:ULDAT:symbol
+Fixes:VILMO:symbol
+Fixes:WTMAN:symbol
 Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
@@ -138,34 +93,151 @@ Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
-Geo:Centrelines:
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
+Free Text:SCT2\ • :freetext
 Geo:GEO:
+Geo:ROADS:
+Geo:SHORE:
+NDBs:LW:symbol
+NDBs:MB:symbol
+NDBs:YCD:symbol
+Runways:CYAZ 07-25:centerline
+Runways:CYAZ 11-29:centerline
+Runways:CYAZ 16-34:centerline
+Runways:CYBL 12-30:centerline
 Runways:CYCD 16-34:centerline
+Runways:CYCG 15-33:centerline
+Runways:CYDC 04-22:centerline
+Runways:CYKA 04-22:centerline
+Runways:CYKA 09-27:centerline
 Runways:CYLW 16-34:centerline
 Runways:CYNJ 01-19:centerline
 Runways:CYNJ 07-25:centerline
 Runways:CYPK 08L-26R:centerline
 Runways:CYPK 08R-26L:centerline
 Runways:CYPK 18-36:centerline
+Runways:CYPR 13-31:centerline
 Runways:CYQQ 12-30:centerline
 Runways:CYQQ 18-36:centerline
+Runways:CYQZ 13-31:centerline
 Runways:CYVR 08L-26R:centerline
 Runways:CYVR 08R-26L:centerline
 Runways:CYVR 13-31:centerline
+Runways:CYWL 12-30:centerline
+Runways:CYXC 16-34:centerline
 Runways:CYXS 01-19:centerline
 Runways:CYXS 06-24:centerline
 Runways:CYXS 15-33:centerline
+Runways:CYXT 03-21:centerline
+Runways:CYXT 15-33:centerline
 Runways:CYXX 01-19:centerline
 Runways:CYXX 07-25:centerline
+Runways:CYYD 15-33:centerline
+Runways:CYYF 16-34:centerline
 Runways:CYYJ 03-21:centerline
 Runways:CYYJ 09-27:centerline
 Runways:CYYJ 14-32:centerline
+Runways:CYZP 13-31:centerline
+Runways:CYZT 08-26:centerline
+Runways:CYZT 11-29:centerline
+Runways:CYZT 16-34:centerline
 Runways:CZBB 07-25:centerline
 Runways:CZBB 13-31:centerline
 Runways:KBLI 16-34:centerline
-Stars:Airspace - Advisory:
-Stars:Airspace - Danger:
-Stars:Airspace - Restricted:
+Sids:Centrelines:
+Stars:STAR CYLW NORIP:
+Stars:STAR CYLW PIGLU:
+Stars:STAR CYLW SEKAB:
+VORs:YDC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -179,7 +251,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:342.00000
 TAGFAMILY:CSiT
-WINDOWAREA:48.291990:-125.488125:50.015028:-120.167173
+WINDOWAREA:48.605162:-124.920580:49.804554:-121.216709
 PLUGIN:VATCANSitu:altFilterHigh:100
 PLUGIN:VATCANSitu:altFilterLow:1
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

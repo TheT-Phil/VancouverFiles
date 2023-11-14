@@ -3,6 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORTITLE:CZVR.sct
 ARTCC boundary:Airport Complex:
+ARTCC boundary:Airways - J:
 ARTCC boundary:Border with ANC:
 ARTCC boundary:Border with CAN:
 ARTCC boundary:Border with FIR:
@@ -12,23 +13,38 @@ ARTCC boundary:Centre Overlay:
 ARTCC boundary:Cranbrook/Enderby:
 ARTCC boundary:East Complex:
 ARTCC boundary:High Complex:
+ARTCC high boundary:Airspace - Restricted (HI):
 ARTCC high boundary:Airspace Shelves:
+ARTCC high boundary:Airways - Q:
 ARTCC low boundary:ANC Splits:
 ARTCC low boundary:SEA Splits:
 Fixes:ANTAK:symbol
+Fixes:ARRIE:symbol
 Fixes:BINVO:symbol
 Fixes:BOKMA:symbol
 Fixes:BOOTH:symbol
 Fixes:CASCD:symbol
 Fixes:CILLI:symbol
 Fixes:DATNO:symbol
+Fixes:DOLFF:symbol
 Fixes:DUGGS:symbol
+Fixes:DUXAR:symbol
+Fixes:EDGES:symbol
+Fixes:ELKIE:symbol
+Fixes:FIRNI:symbol
+Fixes:FRIED:symbol
 Fixes:HANRY:symbol
+Fixes:HEIRE:symbol
+Fixes:HOWSE:symbol
+Fixes:HOWZR:symbol
 Fixes:IGVEP:symbol
 Fixes:IWACK:symbol
+Fixes:JOWEN:symbol
 Fixes:KANUA:symbol
 Fixes:KATCH:symbol
 Fixes:KEINN:symbol
+Fixes:KNEIL:symbol
+Fixes:KURTT:symbol
 Fixes:LINGO:symbol
 Fixes:MANJO:symbol
 Fixes:MENBO:symbol
@@ -37,24 +53,27 @@ Fixes:MOCHA:symbol
 Fixes:NADPI:symbol
 Fixes:NOVAR:symbol
 Fixes:NUDGE:symbol
+Fixes:ONSET:symbol
 Fixes:ORNAI:symbol
+Fixes:PARQE:symbol
+Fixes:PEKAA:symbol
 Fixes:PRETY:symbol
 Fixes:ROMRA:symbol
+Fixes:RORTU:symbol
 Fixes:ROUKE:symbol
-Fixes:ROYST:symbol
+Fixes:SEATN:symbol
 Fixes:SIGPA:symbol
 Fixes:SIMSU:symbol
+Fixes:SKANI:symbol
+Fixes:SPARD:symbol
+Fixes:TWIGY:symbol
 Fixes:TWISP:symbol
 Fixes:VIDRI:symbol
 Fixes:WAPTO:symbol
+Fixes:WASEN:symbol
+Fixes:WELLF:symbol
 Geo:GEO:
-NDBs:LW:symbol
 NDBs:YAZ:symbol
-Sids:Airways - J:
-Stars:Airspace - Advisory:
-Stars:Airspace - Danger:
-Stars:Airspace - Restricted:
-Stars:Airways - Q:
 VORs:ANN:symbol
 VORs:BKA:symbol
 VORs:GEG:symbol
@@ -95,7 +114,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:342.00000
 TAGFAMILY:CSiT
-WINDOWAREA:45.592450:-137.426252:55.474274:-106.909970
+WINDOWAREA:46.678382:-140.334028:56.560207:-109.817743
 PLUGIN:VATCANSitu:altFilterHigh:999
 PLUGIN:VATCANSitu:altFilterLow:1
 PLUGIN:VATCANSitu:DisplayTypeName:IFR
