@@ -13,14 +13,13 @@ ARTCC high boundary:Control Zones (TML):
 ARTCC high boundary:Control Zones (YVR):
 Fixes:ALMOM:symbol
 Fixes:AMBAT:symbol
-Fixes:AXIGA:symbol
-Fixes:BEPEX:symbol
 Fixes:BEVOT:symbol
 Fixes:BODVI:symbol
 Fixes:DAPUS:symbol
 Fixes:DARUD:symbol
 Fixes:DATBO:symbol
 Fixes:DUNJY:symbol
+Fixes:DUTOP:symbol
 Fixes:EBLEL:symbol
 Fixes:EPSER:symbol
 Fixes:IKNER:symbol
@@ -30,8 +29,6 @@ Fixes:LERIM:symbol
 Fixes:NADEP:symbol
 Fixes:NORIP:symbol
 Fixes:OMPIM:symbol
-Fixes:OMSED:symbol
-Fixes:ONDAV:symbol
 Fixes:PIGLU:symbol
 Fixes:PILMA:symbol
 Fixes:ROBTI:symbol
@@ -44,6 +41,7 @@ Fixes:UKVOD:symbol
 Fixes:ULDAT:symbol
 Fixes:VILMO:symbol
 Fixes:WTMAN:symbol
+Fixes:WUGUT:symbol
 Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
