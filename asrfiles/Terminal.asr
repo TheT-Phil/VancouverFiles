@@ -32,6 +32,7 @@ Fixes:ALMOM:symbol
 Fixes:ALVYN:symbol
 Fixes:AMBAT:symbol
 Fixes:AMBRO:symbol
+Fixes:ANDIE:symbol
 Fixes:ANTAK:symbol
 Fixes:ANVAP:symbol
 Fixes:APLEX:symbol
@@ -49,6 +50,7 @@ Fixes:CASSL:symbol
 Fixes:CEESE:symbol
 Fixes:CHAPT:symbol
 Fixes:CILLI:symbol
+Fixes:CITOP:symbol
 Fixes:COGLE:symbol
 Fixes:DAPUS:symbol
 Fixes:DARUD:symbol
@@ -57,6 +59,7 @@ Fixes:DAXET:symbol
 Fixes:DAXEX:symbol
 Fixes:DISCO:symbol
 Fixes:DOLFF:symbol
+Fixes:DUMRA:symbol
 Fixes:DUPOD:symbol
 Fixes:DURAK:symbol
 Fixes:DURLO:symbol
@@ -66,9 +69,11 @@ Fixes:EDGES:symbol
 Fixes:EGRET:symbol
 Fixes:ELIDI:symbol
 Fixes:ELKIE:symbol
+Fixes:ELLKS:symbol
 Fixes:ENDBY:symbol
 Fixes:EPSER:symbol
 Fixes:ESTIT:symbol
+Fixes:FARNS:symbol
 Fixes:FERRY:symbol
 Fixes:FIRNI:symbol
 Fixes:FOCHE:symbol
@@ -79,6 +84,7 @@ Fixes:GABIN:symbol
 Fixes:GARRE:symbol
 Fixes:GIBAC:symbol
 Fixes:GLACE:symbol
+Fixes:GOVAD:symbol
 Fixes:HARAS:symbol
 Fixes:HEIRE:symbol
 Fixes:HOWSE:symbol
@@ -104,9 +110,10 @@ Fixes:LAFFO:symbol
 Fixes:LENUR:symbol
 Fixes:LIDIS:symbol
 Fixes:LINGO:symbol
-Fixes:LOCAN:symbol
+Fixes:LOONY:symbol
 Fixes:LYTON:symbol
 Fixes:MANJO:symbol
+Fixes:MEKPI:symbol
 Fixes:MENBO:symbol
 Fixes:MERYT:symbol
 Fixes:METOW:symbol
@@ -122,10 +129,12 @@ Fixes:NORIP:symbol
 Fixes:NOVAR:symbol
 Fixes:NUDGE:symbol
 Fixes:NUGUV:symbol
+Fixes:NUVVE:symbol
 Fixes:OBSOP:symbol
 Fixes:OMINU:symbol
 Fixes:OMPIM:symbol
 Fixes:OMSEB:symbol
+Fixes:OMSIK:symbol
 Fixes:ORNAI:symbol
 Fixes:PARQE:symbol
 Fixes:PEKAA:symbol
@@ -143,6 +152,7 @@ Fixes:ROLLA:symbol
 Fixes:ROMRA:symbol
 Fixes:RORTU:symbol
 Fixes:ROUKE:symbol
+Fixes:ROVMA:symbol
 Fixes:RWY08:symbol
 Fixes:RWY26:symbol
 Fixes:SEATN:symbol
@@ -327,9 +337,7 @@ NDBs:LW:symbol
 NDBs:MB:symbol
 NDBs:PR:symbol
 NDBs:SX:symbol
-NDBs:VR:symbol
 NDBs:XT:symbol
-NDBs:YAZ:symbol
 NDBs:YBL:symbol
 NDBs:YCD:symbol
 NDBs:YJQ:symbol

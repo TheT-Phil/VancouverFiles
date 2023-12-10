@@ -18,21 +18,29 @@ ARTCC high boundary:Airspace Shelves:
 ARTCC high boundary:Airways - Q:
 ARTCC low boundary:ANC Splits:
 ARTCC low boundary:SEA Splits:
+Fixes:ANDIE:symbol
 Fixes:ANTAK:symbol
 Fixes:ARRIE:symbol
 Fixes:BINVO:symbol
 Fixes:BOKMA:symbol
 Fixes:BOOTH:symbol
+Fixes:BOTAG:symbol
 Fixes:CASCD:symbol
 Fixes:CILLI:symbol
 Fixes:DATNO:symbol
+Fixes:DESNU:symbol
 Fixes:DOLFF:symbol
+Fixes:DORSE:symbol
 Fixes:DUGGS:symbol
+Fixes:DUMRA:symbol
 Fixes:DUXAR:symbol
 Fixes:EDGES:symbol
+Fixes:EEDEN:symbol
 Fixes:ELKIE:symbol
+Fixes:ELLKS:symbol
 Fixes:FIRNI:symbol
 Fixes:FRIED:symbol
+Fixes:GOVAD:symbol
 Fixes:HANRY:symbol
 Fixes:HEIRE:symbol
 Fixes:HOWSE:symbol
@@ -53,12 +61,15 @@ Fixes:MOCHA:symbol
 Fixes:NADPI:symbol
 Fixes:NOVAR:symbol
 Fixes:NUDGE:symbol
+Fixes:ONEAL:symbol
 Fixes:ONSET:symbol
 Fixes:ORNAI:symbol
 Fixes:PARQE:symbol
 Fixes:PEKAA:symbol
 Fixes:PRETY:symbol
+Fixes:RABOX:symbol
 Fixes:ROMRA:symbol
+Fixes:ROPLA:symbol
 Fixes:RORTU:symbol
 Fixes:ROUKE:symbol
 Fixes:SEATN:symbol
@@ -73,13 +84,13 @@ Fixes:WAPTO:symbol
 Fixes:WASEN:symbol
 Fixes:WELLF:symbol
 Geo:GEO:
-NDBs:YAZ:symbol
 VORs:ANN:symbol
 VORs:BKA:symbol
 VORs:GEG:symbol
 VORs:GTF:symbol
 VORs:HQM:symbol
 VORs:HUH:symbol
+VORs:LVD:symbol
 VORs:MLP:symbol
 VORs:OLM:symbol
 VORs:PAE:symbol
